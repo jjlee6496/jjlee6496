@@ -30,7 +30,7 @@
 
 </p>
 
-# Github
+### Github
 
 <br>
 <div align="center">
@@ -38,7 +38,7 @@
   [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jjlee6496&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-# BOJ
+### BOJ
 <br>
 <div align="center">
   

@@ -1,16 +1,47 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=JJLEE&fontAlign=70&rotate=13&fontAlignY=25&desc=welcome%20to%20my%20git&descAlign=70.&descAlignY=44)
 
-<!--
-**jjlee6496/jjlee6496** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning DL with SSUDA
+- ✨ I'm intrested in RL, AWS these days
+- 📒 Major in Statistics and learning Timeseries analysis and categorical data analysis these days
+- ⚡ I like creative things like music 🎹
+- 👇My daily blog below👇
+<p>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;<a href="https://blog.naver.com/dlwjdwls1515" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=Naver&logoColor=white"/></a></p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">🛠 Skills 🛠</h1>
+
+<p align="center"> Competent Skills </p>
+
+<p align="center"> 
+  <img alt="R" src = "https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=R&logoColor=white"/>
+  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
+
+<p align="center"> Skills that I've used at least once </p>
+
+<p align="center">
+   <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/>
+  <img alt="ORACLE" src ="https://img.shields.io/badge/ORACLE-F80000.svg?&style=flat-square&logo=ORACLE&logoColor=white"/>
+  <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white"/>
+  <img alt="JAVA" src ="https://img.shields.io/badge/JAVA-007396.svg?&style=flat-square&logo=JAVA&logoColor=white"/>
+  
+
+
+</p>
+
+# Github
+
+<br>
+<div align="center">
+ 
+  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jjlee6496&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+# BOJ
+<br>
+<div align="center">
+  
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ujin1515)](https://solved.ac/ujin1515)
+ <img src="http://mazandi.herokuapp.com/api?handle=ujin1515&theme=cold"/>
+
+</div>

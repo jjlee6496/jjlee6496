@@ -30,17 +30,18 @@
 
 </p>
 
-### Github
 
 <br>
 <div align="center">
+  # Github stats
  
   [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jjlee6496&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-### BOJ
+
 <br>
 <div align="center">
+  # BOJ
   
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ujin1515)](https://solved.ac/ujin1515)

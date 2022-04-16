@@ -39,13 +39,4 @@
 </div>
 
 
-<br>
-<div align="center">
-<h1 align="center">👀BOJ👀</h1>
-  
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ujin1515)](https://solved.ac/ujin1515)
-  
- <img src="http://mazandi.herokuapp.com/api?handle=ujin1515&theme=cold"/>
-
 </div>

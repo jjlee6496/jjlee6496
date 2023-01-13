@@ -18,7 +18,7 @@
   <img alt="R" src = "https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=R&logoColor=white"/>
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
 
-<p align="center"> Skills that I've used at least once </p>
+<!--<p align="center"> Skills that I've used at least once </p>
 
 <p align="center">
    <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/>
@@ -28,7 +28,7 @@
   
 
 
-</p>
+</p>-->
 
 
 <br>

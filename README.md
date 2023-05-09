@@ -17,18 +17,10 @@
 <p align="center"> 
   <img alt="R" src = "https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=R&logoColor=white"/>
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
-
-<!--<p align="center"> Skills that I've used at least once </p>
-
-<p align="center">
-   <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/>
-  <img alt="ORACLE" src ="https://img.shields.io/badge/ORACLE-F80000.svg?&style=flat-square&logo=ORACLE&logoColor=white"/>
-  <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white"/>
-  <img alt="JAVA" src ="https://img.shields.io/badge/JAVA-007396.svg?&style=flat-square&logo=JAVA&logoColor=white"/>
+  <img alt="Docker" src ="https://img.shields.io/badge/Docker-#2496ED.svg?&style=flat-square&logo=Docker&logoColor=white"/>
+  <img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-#326CE5.svg?&style=flat-square&logo=Kubernetes&logoColor=white"/>
+  <img alt="Tensorflow" src ="https://img.shields.io/badge/TensorFlow-#FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white"/>
   
-
-
-</p>-->
 
 
 <br>

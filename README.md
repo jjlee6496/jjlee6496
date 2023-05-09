@@ -6,9 +6,9 @@
 - ✨ I'm intrested in Kubernetes these days
 - 📒 Major in Statistics
 - ⚡ I like creative things like music 🎹
-- 👇My daily blog below👇
-<!-- <p>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;<a href="https://blog.naver.com/dlwjdwls1515" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=Naver&logoColor=white"/></a></p> 
- -->
+<!-- - 👇My daily blog below👇
+ <p>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;<a href="https://blog.naver.com/dlwjdwls1515" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=Naver&logoColor=white"/></a></p>  -->
+
 
 <h1 align="center">🛠 Stack 🛠</h1>
 

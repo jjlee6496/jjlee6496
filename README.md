@@ -7,16 +7,18 @@
 - 📒 Major in Statistics
 - ⚡ I like creative things like music 🎹
 - 👇My daily blog below👇
-<p>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;<a href="https://blog.naver.com/dlwjdwls1515" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=Naver&logoColor=white"/></a></p>
+<--! <p>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;<a href="https://blog.naver.com/dlwjdwls1515" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=Naver&logoColor=white"/></a></p> -->
 
 
-<h1 align="center">🛠 Skills 🛠</h1>
+<h1 align="center">🛠 Stack 🛠</h1>
 
 <p align="center"> 
   <img alt="R" src = "https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=R&logoColor=white"/>
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
+  <br>
   <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=Docker&logoColor=white"/>
   <img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=flat-square&logo=Kubernetes&logoColor=white"/>
+  <br>
   <img alt="Tensorflow" src ="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white"/>
   
 

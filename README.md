@@ -2,11 +2,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjlee6496&count_bg=%2379C83D&title_bg=%23FF9D9D&icon=github.svg&icon_color=%23F5F9F2&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- 🌱 I’m currently learning DL with AIFFEL
-- ✨ I'm intrested in Kubernetes these days
-- 📒 Major in Statistics
-- ⚡ I like creative things like music 🎹
-<!-- - 👇My daily blog below👇
+- Interested in LLM applications
+
  <p>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;<a href="https://blog.naver.com/dlwjdwls1515" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=Naver&logoColor=white"/></a></p>  -->
 
 
@@ -16,9 +13,7 @@
   <img alt="R" src = "https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=R&logoColor=white"/>
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
   <br>
-  <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=Docker&logoColor=white"/>
-  <img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=flat-square&logo=Kubernetes&logoColor=white"/>
-  <br>
+
   <img alt="Tensorflow" src ="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white"/>
   
 
